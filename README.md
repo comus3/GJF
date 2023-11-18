@@ -3,6 +3,16 @@
 
 The Get_a_Job_Fast tool is here to... well help you get a job fast..
 
+## Installation
+
+Before running the automated job application tool, make sure to install the necessary dependencies. You can do this by executing the following command in your terminal or command prompt:
+
+```bash
+pip install -r requirements.txt
+```
+
+This command will install all the required Python packages specified in the `requirements.txt` file. Ensure that you have the appropriate version of Python installed on your system before running this command. Once the installation is complete, you're ready to set up and use the tool as outlined in the setup instructions above.
+
 ## Setup Instructions
 
 1. **Email and Motivation Templates:**
