@@ -37,4 +37,4 @@ The Get_a_Job_Fast tool is here to... well help you get a job fast..
 - Ensure all setup steps are completed correctly to avoid errors.
 - Have fun using the tool, and may you land a job swiftly!
 
-**Disclaimer:** Use this tool responsibly and in compliance with applicable laws and regulations. The authors are not responsible for any misuse or unintended consequences.
+**Disclaimer:** Use this tool responsibly and in compliance with applicable laws and regulations. The author is not responsible for any misuse or unintended consequences.
