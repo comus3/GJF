@@ -1,0 +1,7 @@
+tinker
+datetime
+email
+smtplib
+getpass
+openpyxl
+reportlab
