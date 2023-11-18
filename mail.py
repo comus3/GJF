@@ -5,6 +5,8 @@ from email.mime.application import MIMEApplication
 from getpass import getpass  # Used for securely entering your password
 import os
 
+user_Mail = ""#PLACE YOUR MAIL HERE
+
 
 def sendEmail(recipient_email,subject,password = None):
     def returnEmailMsg():
@@ -28,7 +30,7 @@ def sendEmail(recipient_email,subject,password = None):
             print("EMAIL: No content found in the file.")
 
     # Sender's email address and password
-    sender_email = "come.plantin.carrenard@gmail.com"
+    sender_email = user_Mail
     if password == None or password == "":password = getpass("Enter your Gmail password: ")
     message = returnEmailMsg()
 
