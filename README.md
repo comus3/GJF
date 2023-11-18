@@ -23,7 +23,7 @@ The Get_a_Job_Fast tool is here to... well help you get a job fast..
 3. **Run the Program:**
    - Execute the `main.py` code.
    - Complete the input boxes with the required information.
-   - Click "Generate Outputs" to create `mail.txt` and `motif.pdf` files in the output folder.
+   - Click "Generate Outputs" to create `mail.txt` and `motiv.pdf` files in the output folder.
    - Review the generated files; if satisfied, click "Send" to send the email.
    - The program will update an Excel file with the sent email information for tracking purposes.
 
