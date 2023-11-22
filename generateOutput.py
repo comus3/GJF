@@ -31,7 +31,7 @@ def generateMotiv(replacement_dict):
             
     def generate_pdf():
         input_file = "output/MOTIV_REPLACED_text.txt"
-        output_file = "output/CPC-Motiv.pdf"
+        output_file = "output/Motiv.pdf"
         try:
             # Read the content from the input file and decode it as UTF-8
             with open(input_file, 'r', encoding='utf-8') as file:
