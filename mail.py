@@ -42,7 +42,7 @@ def sendEmail(recipient_email,subject,password = None):
     msg.attach(MIMEText(message, 'plain',"utf-8"))
     
     # Add attachments
-    attachment_files = ["output/CPC-CV.pdf", "output/CPC-Motiv.pdf"]  # File paths
+    attachment_files = ["output/CV.pdf", "output/Motiv.pdf"]  # File paths
     for file_path in attachment_files:
         with open(file_path, "rb") as file:
             part = MIMEApplication(file.read(), Name=os.path.basename(file_path))
