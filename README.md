@@ -40,6 +40,20 @@ This command will install all the required Python packages specified in the `req
 4. **Excel File Handling:**
    - If the Excel update fails, use the "Try Again" button to reattempt.
    - Check the Excel file for a record of all sent emails.
+  
+## Placing Your CV in the Output Folder
+
+Before running the Get_a_Job_Fast tool, it's crucial to include your resume (CV) in the output folder. This step is essential for the tool to access and attach your CV to the generated emails during the application process. Ensure that your resume file is named appropriately and is in a common format such as PDF or Word.
+
+Follow these steps to place your CV in the output folder:
+
+1. Save your resume file with a recognizable name, preferably including your full name and the word "Resume" (e.g., JohnDoe_Resume.pdf).
+
+2. Copy or move the saved resume file into the same directory where you have the Get_a_Job_Fast tool installed. This is typically the folder containing the tool's Python scripts and other files.
+
+3. Confirm that your resume file is in the output folder, alongside the `mail.txt` and `motiv.pdf` files that the tool generates.
+
+By placing your CV in the output folder, you ensure that the Get_a_Job_Fast tool can seamlessly access and attach it to the job application emails, increasing the effectiveness of your applications. Remember to update your resume in the output folder whenever you make significant changes to your professional experience or qualifications. Good luck with your job search!
 
 ## Notes
 
